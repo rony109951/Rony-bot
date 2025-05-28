@@ -1,7 +1,7 @@
 module.exports = {
-    name: 'about',
-    aliases: ['info', 'bot'],
-    description: 'يعرض معلومات عن البوت',
+    name: "about",
+    aliases: ["info", "bot"],
+    description: "يعرض معلومات عن البوت",
     async execute(sock, msg, args) {
         const aboutText = `
 اسم البوت: جمايكا
