@@ -1,0 +1,16 @@
+{
+  "name": "jamaica-bot",
+  "version": "1.0.0",
+  "description": "بوت واتساب جمايكا بواسطة روني البحيره",
+  "main": "jamaica.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node jamaica.js"
+  },
+  "author": "روني البحيره",
+  "license": "MIT",
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
